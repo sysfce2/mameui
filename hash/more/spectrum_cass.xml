@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7800 -->
+<!-- Number of items in this list = 7807 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -6542,6 +6542,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="zxs5343f67e7ea1e">
+		<description>Arctic Onslaught 48K (2026)(The Death Squad)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="22526">
+				<rom name="Arctic Onslaught 48K (2026)(The Death Squad).tap" size="22526" crc="87dc84a8" sha1="5343f67e7ea1e297214379bfdf7e6cad75a73bcf"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="zxs01c53ffcc6439">
 		<description>Arcturus (1984)(Visions Software)</description>
 		<year>????</year>
@@ -10399,6 +10409,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="41576">
 				<rom name="Blind Panic (1988)(Martech Games).tap" size="41576" crc="9b41171f" sha1="8e03f1df3b9a2c39e07f6972f1d7f5cb9b64ac0c"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs3b0bbd02a7172">
+		<description>Blind Panic 48K (1988)(Martech Games - Your Sinclair)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="41610">
+				<rom name="Blind Panic 48K (1988)(Martech Games - Your Sinclair).tzx" size="41610" crc="710e7056" sha1="3b0bbd02a717212a1f2a56de372e2d2134770c74"/>
 			</dataarea>
 		</part>
 	</software>
@@ -32012,16 +32032,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="zxs733103f8fa0d8">
-		<description>Infiltrator (1986)(US Gold)</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="cass" interface="spectrum_cass">
-			<dataarea name="cass" size="152377">
-				<rom name="Infiltrator (1986)(US Gold).tap" size="152377" crc="0ccee7c6" sha1="733103f8fa0d8fc56e643b3f3e43b027cf46da2b"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="zxs2ffb5f0ea36ec">
 		<description>Infiltrator (1986)(US Gold)[a]</description>
 		<year>????</year>
@@ -35742,6 +35752,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="zxs3c487b539b5da">
+		<description>Last Mission 48K (1987)(U.S. Gold)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="52084">
+				<rom name="Last Mission 48K (1987)(U.S. Gold).tzx" size="52084" crc="32f61e82" sha1="3c487b539b5da9e872931efae537a487f508c74b"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="zxsb96ba1fbea84e">
 		<description>Last Mission, The (1987)(Opera Soft)(Sp)</description>
 		<year>????</year>
@@ -36599,6 +36619,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="48744">
 				<rom name="Lo Zio Tom (19xx)(Lamano Lesta &amp; Duran Duran)(It)[a].tap" size="48744" crc="1e44add8" sha1="549fa6018ca31b59c8058fcb94b275bce319f67a"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs4d985b00ead25">
+		<description>Lock'n'Chase 48K-128K (2025)(Bob's Stuff)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="47062">
+				<rom name="Lock'n'Chase 48K-128K (2025)(Bob's Stuff).tap" size="47062" crc="5957d7a1" sha1="4d985b00ead25c3cf645d63bac6a881f7cac8a81"/>
 			</dataarea>
 		</part>
 	</software>
@@ -50412,6 +50442,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="zxseb1996365a90d">
+		<description>Return of the Jedi 48K-128K (1989)(Domark)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="40755">
+				<rom name="Return of the Jedi 48K-128K (1989)(Domark).tzx" size="40755" crc="b6c903b1" sha1="eb1996365a90d81ad7518a68ab0db8f4a5e57f55"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="zxsb0197ce6ff502">
 		<description>Return of the Jedy (19xx)(M.K. Circuits)</description>
 		<year>????</year>
@@ -59669,6 +59709,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="26777">
 				<rom name="Target (1989)(Martech Games Ltd).tap" size="26777" crc="5e01d8e8" sha1="c019819422e3afc95ddb52fdb960e52c2f1fd3a4"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs537feea5a6ab4">
+		<description>Target 48K (1989)(Martech Games)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="26811">
+				<rom name="Target 48K (1989)(Martech Games).tzx" size="26811" crc="42cf5070" sha1="537feea5a6ab4f352e35e0132e53eeaed512a373"/>
 			</dataarea>
 		</part>
 	</software>
@@ -71872,6 +71922,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="zxs733103f8fa0d8">
+		<description>_Infiltrator 48K (1986)(U.S. Gold)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="152377">
+				<rom name="_Infiltrator 48K (1986)(U.S. Gold).tap" size="152377" crc="0ccee7c6" sha1="733103f8fa0d8fc56e643b3f3e43b027cf46da2b"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="zxsf0bc2a3240670">
 		<description>_Innsmouth ES v1.1 48K (2024)(Bitfans)</description>
 		<year>????</year>
@@ -76879,6 +76939,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="48273">
 				<rom name="_Tank Command (1988)(Atlantis Software Ltd).tap" size="48273" crc="e0d4186d" sha1="76c4b45e11d6ca8096c7ca6e05a5af962389e893"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxsc0417683988f7">
+		<description>_Tarzan 48K-128K (1986)(Martech Games)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="58197">
+				<rom name="_Tarzan 48K-128K (1986)(Martech Games).tzx" size="58197" crc="5e543ef3" sha1="c0417683988f7a02d7b783cd50ebdf9d34787d4b"/>
 			</dataarea>
 		</part>
 	</software>
