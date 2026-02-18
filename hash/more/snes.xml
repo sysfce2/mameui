@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 3994 -->
+<!-- Number of items in this list = 3998 -->
 <softwarelist name="snes" description="snes loose roms">
 	<software name="snsd1346f1df3666">
 		<description>(demo) STRDEMO</description>
@@ -3129,6 +3129,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="1048576">
 				<rom name="AmbianceOW (SMW1 Hack).sfc" size="1048576" crc="66ee407a" sha1="ebe0334a8774d3bdb0ebbf6661ec6db4f2974963"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns7d53b77c51c7c">
+		<description>America Oudan Ultra Quiz (J)(1992)(Tomy)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="1048576">
+				<rom name="America Oudan Ultra Quiz (J)(1992)(Tomy).sfc" size="1048576" crc="9624e6ed" sha1="7d53b77c51c7c7e964f40e12b641a405d2e68b2a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -7199,6 +7209,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="4194304">
 				<rom name="Diddy's Kong Quest - Rambis Revenge (2025)(KFin45).sfc" size="4194304" crc="9f69d768" sha1="b6af15c347d58053f948f89b8e42a47f9e5138c7"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns4ff6260ae0216">
+		<description>Diddy's Kong Quest2 - Squawks Edition (2025)(kfin45)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Diddy's Kong Quest2 - Squawks Edition (2025)(kfin45).sfc" size="4194304" crc="6a8cff00" sha1="4ff6260ae0216a141d17df7d57597ad6d91913bf"/>
 			</dataarea>
 		</part>
 	</software>
@@ -13659,6 +13679,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="3146240">
 				<rom name="Kamek and the Shroobs (SMW1 hack).sfc" size="3146240" crc="64c2930e" sha1="81b50adcf2ba0f728daedd5e4edbcb7332e4cd70"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns8a3d190016f1d">
+		<description>Kamek's Island v1.7 (2015)(Gamma V)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Kamek's Island v1.7 (2015)(Gamma V).sfc" size="4194304" crc="f50086c7" sha1="8a3d190016f1d72b259af61c9098925cf3256025"/>
 			</dataarea>
 		</part>
 	</software>
@@ -38149,6 +38179,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Torneko no Daibouken - Fushigi no Dungeon T-Eng v0.99 (2004-2025)(Magic Destiny, motke).sfc" size="2097152" crc="a2946cd0" sha1="edca64165caa043e3244f46e94843bfdb4ad83ff"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns11e168ef9a105">
+		<description>Trans-America Ultra Quiz T-Eng v1.1 (2025)(krokodyl)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="1572864">
+				<rom name="Trans-America Ultra Quiz T-Eng v1.1 (2025)(krokodyl).sfc" size="1572864" crc="19dfa224" sha1="11e168ef9a10592bcb085ce4a364c254b36e8e36"/>
 			</dataarea>
 		</part>
 	</software>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7807 -->
+<!-- Number of items in this list = 7808 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -8529,6 +8529,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="118785">
 				<rom name="Batman - The Movie (1989)(Ocean Software)[cr [Cr][Cr].tap" size="118785" crc="e3fd1ef4" sha1="4af15e5f8f21b1b03e06c495925c6e41e533927c"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs31cc9ea956c9b">
+		<description>Batman 48K-128K (1986)(Ocean)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="49822">
+				<rom name="Batman 48K-128K (1986)(Ocean).tzx" size="49822" crc="ec8eac1f" sha1="31cc9ea956c9bbd3501d36d06298047f1a1b7901"/>
 			</dataarea>
 		</part>
 	</software>
