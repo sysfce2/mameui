@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7808 -->
+<!-- Number of items in this list = 7810 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -38623,12 +38623,12 @@
 		</part>
 	</software>
 	<software name="zxsb8bbb534e2b78">
-		<description>MASK II 128K (1987)(Gremlin Graphics)</description>
+		<description>MASK II 48K-128K (1987)(Gremlin Graphics)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="79774">
-				<rom name="MASK II 128K (1987)(Gremlin Graphics).tap" size="79774" crc="972b746c" sha1="b8bbb534e2b780852b405dc5fd55a1977ebb59e6"/>
+				<rom name="MASK II 48K-128K (1987)(Gremlin Graphics).tap" size="79774" crc="972b746c" sha1="b8bbb534e2b780852b405dc5fd55a1977ebb59e6"/>
 			</dataarea>
 		</part>
 	</software>
@@ -38653,12 +38653,12 @@
 		</part>
 	</software>
 	<software name="zxs013563abe0796">
-		<description>MASK III - VENOM Strikes Back 128K (1988)(Gremlin Graphics)</description>
+		<description>MASK III - VENOM Strikes Back 48K-128K (1988)(Gremlin Graphics)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="51714">
-				<rom name="MASK III - VENOM Strikes Back 128K (1988)(Gremlin Graphics).tap" size="51714" crc="afcf673d" sha1="013563abe07967ae71fadab64c07bee4fcd1a79a"/>
+				<rom name="MASK III - VENOM Strikes Back 48K-128K (1988)(Gremlin Graphics).tap" size="51714" crc="afcf673d" sha1="013563abe07967ae71fadab64c07bee4fcd1a79a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -39389,6 +39389,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="41001">
 				<rom name="Mean Streak (1987)(Mirrorsoft).tap" size="41001" crc="72d4b587" sha1="45f393fc8506e51dbe58b2106a519ab0f8a04051"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs98576fa0dee6d">
+		<description>Mean Streak 48K-128K (1987)(Mirrorsoft)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="66912">
+				<rom name="Mean Streak 48K-128K (1987)(Mirrorsoft).tap" size="66912" crc="eaa7cbc4" sha1="98576fa0dee6dcbe26c42d02011173400d4fd038"/>
 			</dataarea>
 		</part>
 	</software>
@@ -58699,6 +58709,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="47807">
 				<rom name="Sun Star (1987)(CRL Group).tap" size="47807" crc="1e8769d2" sha1="1411ff3167dc5b73bf577cb7326bb6e065f75056"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxsd07f06fa0bb22">
+		<description>Supaplex 128K (2009)(Triumph Game Labs)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="107665">
+				<rom name="Supaplex 128K (2009)(Triumph Game Labs).tap" size="107665" crc="5f745967" sha1="d07f06fa0bb22c96e4d4e30cf7c95c13f779e732"/>
 			</dataarea>
 		</part>
 	</software>
