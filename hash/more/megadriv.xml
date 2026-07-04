@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 2092 -->
+<!-- Number of items in this list = 2094 -->
 <softwarelist name="megadriv" description="megadriv loose roms">
 	<software name="gena3084262f5af4">
 		<description>(demo) Sonic no way</description>
@@ -9359,6 +9359,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="131072">
 				<rom name="Hexaduel (World) (v0.2.0) (Proto) (Aftermarket) (Unl).md" size="131072" crc="58987ea8" sha1="2ad21c3c19623217cc60a9b36c0c7ecf021da0e2"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen202c8aa4c7977">
+		<description>Hong Kong 97 Genesis - Beta 01</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="524288">
+				<rom name="Hong Kong 97 Genesis - Beta 01.bin" size="524288" crc="36f90806" sha1="202c8aa4c79775f5a1be8374102ca23896cf4364"/>
 			</dataarea>
 		</part>
 	</software>
@@ -20529,6 +20539,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1048576">
 				<rom name="xevious_md-alpha-0.02.bin" size="1048576" crc="c18f33f2" sha1="a3107b58b75b84622adec97edcd36a57b60af059"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen249f378064f46">
+		<description>xevious_md-alpha-0.03</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="1048576">
+				<rom name="xevious_md-alpha-0.03.bin" size="1048576" crc="0e2511a7" sha1="249f378064f46745ffa80acbff8a5ddeb44e49c0"/>
 			</dataarea>
 		</part>
 	</software>
