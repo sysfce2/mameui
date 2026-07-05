@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 4108 -->
+<!-- Number of items in this list = 4109 -->
 <softwarelist name="snes" description="snes loose roms">
 	<software name="snsd1346f1df3666">
 		<description>(demo) STRDEMO</description>
@@ -12989,6 +12989,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="1572864">
 				<rom name="Home Improvement - Power Tool Pursuit! (U)(1994)(Absolute Entertainment).sfc" size="1572864" crc="fa698c31" sha1="6675e639623eb8add706d56d9733e8ca776b77d4"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns6b518a19acea4">
+		<description>Hong Kong '97 (J)(Unl)(1995)(HappySoft)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="524288">
+				<rom name="Hong Kong '97 (J)(Unl)(1995)(HappySoft).sfc" size="524288" crc="c6a95816" sha1="6b518a19acea46ec62b7d7ce6604013f62a6906e"/>
 			</dataarea>
 		</part>
 	</software>

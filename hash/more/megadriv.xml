@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 2094 -->
+<!-- Number of items in this list = 2095 -->
 <softwarelist name="megadriv" description="megadriv loose roms">
 	<software name="gena3084262f5af4">
 		<description>(demo) Sonic no way</description>
@@ -4999,6 +4999,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="3932160">
 				<rom name="Castlevania - Circle of the Moon (Demo) (2026)(Andor).bin" size="3932160" crc="6d9ece0f" sha1="cee436e9d3104d71602194a670ace0c2ad5348c7"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="genc8b829c1bdaa9">
+		<description>Castlevania - Circle of the Moon (Demo) (2026)(Andor)_1</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="7077888">
+				<rom name="Castlevania - Circle of the Moon (Demo) (2026)(Andor)_1.bin" size="7077888" crc="92137666" sha1="c8b829c1bdaa9aca97fcaf631a99ba43bfbb2fad"/>
 			</dataarea>
 		</part>
 	</software>
