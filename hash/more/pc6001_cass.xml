@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 190 -->
+<!-- Number of items in this list = 203 -->
 <softwarelist name="pc6001_cass" description="pc6001_cass loose roms">
 	<software name="p606261e6a462162">
 		<description>1-Screen Programs (01 On-naji) {m1p1}</description>
@@ -1182,6 +1182,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p60a5d4d7e855de5">
+		<description>Pack'n Boy {m1p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="6961">
+				<rom name="Pack'n Boy {m1p2}.cas" size="6961" crc="5f289e3c" sha1="a5d4d7e855de5e6402311d798ccd271d6ed10cab"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p6061cd715fa349a">
 		<description>Panzerspitze {m2p2}</description>
 		<year>????</year>
@@ -1332,6 +1342,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p607536663a44631">
+		<description>Portopia Renzoku Satsujin Jiken {m2p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="28596">
+				<rom name="Portopia Renzoku Satsujin Jiken {m2p1}.cas" size="28596" crc="5437dcc5" sha1="7536663a4463107d0841a83f8894012c6b7e35e1"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p605218c2b520a79">
 		<description>Programming Bug Syntax Delete {m1p2}</description>
 		<year>????</year>
@@ -1352,6 +1372,26 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p6059d53d84931d9">
+		<description>Qwerty {m2p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="7155">
+				<rom name="Qwerty {m2p2}.p6" size="7155" crc="00635529" sha1="59d53d84931d98972ced9529c8b26c16a436c6d1"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60731fb27e5b044">
+		<description>Raita no Growing Up {m2p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="12803">
+				<rom name="Raita no Growing Up {m2p2}.cas" size="12803" crc="2819fc55" sha1="731fb27e5b0446599360bfd046f21f7b4dab957a"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p605463f93f00a60">
 		<description>Rakugaki Board {m1p2}</description>
 		<year>????</year>
@@ -1359,6 +1399,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="2632">
 				<rom name="Rakugaki Board {m1p2}.p6" size="2632" crc="60efccb1" sha1="5463f93f00a60c869babf3b5a402e66ea4b12317"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60f879d41ee8c20">
+		<description>RB-1710 {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="9999">
+				<rom name="RB-1710 {m1p1}.p6" size="9999" crc="a1368cc5" sha1="f879d41ee8c20b0962bb136470ddd6ce1d023f92"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1392,6 +1442,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p608627227b2f3a4">
+		<description>Ruptus</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="12528">
+				<rom name="Ruptus.p6" size="12528" crc="2aa8e6da" sha1="8627227b2f3a47ddba72674baf1617456215bf90"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p606a60f0d86a9b2">
 		<description>Shut Up and Just Follow Me {m1p1}</description>
 		<year>????</year>
@@ -1399,6 +1459,56 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="3466">
 				<rom name="Shut Up and Just Follow Me {m1p1}.cas" size="3466" crc="eaf7b4fd" sha1="6a60f0d86a9b2040475447053c000726a3367f90"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60350b7caae0a03">
+		<description>Silent {m1p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="3087">
+				<rom name="Silent {m1p2}.p6" size="3087" crc="42568998" sha1="350b7caae0a038591f9e6baaedd40e14446a0154"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60d43bf96cdb570">
+		<description>Slender Island {m2p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="21730">
+				<rom name="Slender Island {m2p2}.cas" size="21730" crc="a11d2f48" sha1="d43bf96cdb570e708fb4eed25b250a1f4615123e"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p6004fba205fb578">
+		<description>Space Fighter {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="8563">
+				<rom name="Space Fighter {m1p1}.p6" size="8563" crc="9cc7aa7c" sha1="04fba205fb578ffe425256511ef97d67431d4bbb"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p606d3c5d5e42df5">
+		<description>Space Inverders {m1p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="6346">
+				<rom name="Space Inverders {m1p2}.cas" size="6346" crc="bbf51641" sha1="6d3c5d5e42df56d1d0480934eb88877f24bd6f67"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60f049c05a51f04">
+		<description>Space Mouse {m2p2 clear 10,&amp;hd5ff}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="12084">
+				<rom name="Space Mouse {m2p2 clear 10,&amp;hd5ff}.cas" size="12084" crc="43ad22db" sha1="f049c05a51f04bea67217913442ca113087e07cc"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1432,6 +1542,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p6070457853c767e">
+		<description>Straightori {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="6747">
+				<rom name="Straightori {m1p1}.p6" size="6747" crc="0d4a1687" sha1="70457853c767e7766999d1710847af02528cc9e3"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p603bd06811a95bc">
 		<description>Super Ball {m1p2}</description>
 		<year>????</year>
@@ -1449,6 +1569,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="6050">
 				<rom name="Tacom Island (2006 ver.) {m1p1}.p6" size="6050" crc="aa172cd8" sha1="a201e6c758addeba4ff5c5658aa93c27bcfbb6ea"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p600f53f2e1c2a3a">
+		<description>Tacom Island 2 {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="14438">
+				<rom name="Tacom Island 2 {m1p1}.p6" size="14438" crc="010528c5" sha1="0f53f2e1c2a3a08b8bd5ec4424ce2fef451c72fd"/>
 			</dataarea>
 		</part>
 	</software>
