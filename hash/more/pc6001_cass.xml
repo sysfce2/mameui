@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 203 -->
+<!-- Number of items in this list = 217 -->
 <softwarelist name="pc6001_cass" description="pc6001_cass loose roms">
 	<software name="p606261e6a462162">
 		<description>1-Screen Programs (01 On-naji) {m1p1}</description>
@@ -142,6 +142,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p60969f3c71e461d">
+		<description>aerial</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="10666">
+				<rom name="aerial.p6" size="10666" crc="fa0944f0" sha1="969f3c71e461dbe79e824fd7db83b1412a36ea83"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p6000afc5d7612a1">
 		<description>Akihabara Takkyuubin {m5p2}</description>
 		<year>????</year>
@@ -149,6 +159,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="4794">
 				<rom name="Akihabara Takkyuubin {m5p2}.cas" size="4794" crc="63ef24b8" sha1="00afc5d7612a1ef510dab3d8933fa837e5e1cdca"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60b2617c23b250a">
+		<description>antiair</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="6939">
+				<rom name="antiair.p6" size="6939" crc="0f68ae10" sha1="b2617c23b250a715ca60e5434f771de8f0a11528"/>
 			</dataarea>
 		</part>
 	</software>
@@ -189,6 +209,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="3854">
 				<rom name="Asalt (v1.1) {m5p3}.p6" size="3854" crc="80d9e3c7" sha1="525c2c7d8c1566ffdae4192a80a03ba6e68bc593"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60f0817b13583d1">
+		<description>ascend</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="8379">
+				<rom name="ascend.p6" size="8379" crc="a8e25c4f" sha1="f0817b13583d17907d99f9d0dbee96b1accea83d"/>
 			</dataarea>
 		</part>
 	</software>
@@ -262,6 +292,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p601086d76df3e03">
+		<description>AX-1 (Demo) {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="13510">
+				<rom name="AX-1 (Demo) {m1p1}.cas" size="13510" crc="5a7a7321" sha1="1086d76df3e03427b0181e704186f827828ab011"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p6091684c965e7df">
 		<description>AX-1 (Simon) {m1p2}</description>
 		<year>????</year>
@@ -269,6 +309,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="4526">
 				<rom name="AX-1 (Simon) {m1p2}.cas" size="4526" crc="4241fc84" sha1="91684c965e7dfd2ebf81746dce45cdc1cb7cf561"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p601fe5b673aa916">
+		<description>AX-2 (Demo) {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="13510">
+				<rom name="AX-2 (Demo) {m1p1}.cas" size="13510" crc="6ec7beb5" sha1="1fe5b673aa916778fbd865b72fe95bc58582f832"/>
 			</dataarea>
 		</part>
 	</software>
@@ -442,6 +492,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p60c10070f95dc8b">
+		<description>battlot</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="10441">
+				<rom name="battlot.p6" size="10441" crc="f9d1e8f7" sha1="c10070f95dc8bf6419996ea6231959e43139299a"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p609b28d918e85b6">
 		<description>Bees! {m1p2}</description>
 		<year>????</year>
@@ -449,6 +509,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="412">
 				<rom name="Bees! {m1p2}.p6" size="412" crc="b7326d79" sha1="9b28d918e85b67079ed8918e741a9bb98e941506"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p606010cd0769c52">
+		<description>bootskell</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="9664">
+				<rom name="bootskell.p6" size="9664" crc="c071251b" sha1="6010cd0769c52e598e4bcee9cf910eb89e3ac272"/>
 			</dataarea>
 		</part>
 	</software>
@@ -472,6 +542,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p60462f004ad7a92">
+		<description>cacorm</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="8385">
+				<rom name="cacorm.p6" size="8385" crc="eddc16a3" sha1="462f004ad7a9273656b2bdb1ba0b5d07e9d0b63b"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p60f4e2e3d73fac6">
 		<description>canmaker</description>
 		<year>????</year>
@@ -479,6 +559,26 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="4221">
 				<rom name="canmaker.p6" size="4221" crc="d4b378a2" sha1="f4e2e3d73fac6c0ee432f28caf4b7ce6eb74e2c3"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60dfdb1c9e48e4e">
+		<description>cavit</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="10787">
+				<rom name="cavit.p6" size="10787" crc="ce6ee85a" sha1="dfdb1c9e48e4e9b5938728edb919f08ea96ceaae"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p6072ec88fab73cd">
+		<description>cracky</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="7693">
+				<rom name="cracky.p6" size="7693" crc="fa9f4cb7" sha1="72ec88fab73cd9db363e1383fe68b71bea9206ea"/>
 			</dataarea>
 		</part>
 	</software>
@@ -522,6 +622,26 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="p6081907c4656e72">
+		<description>Doubutsu Shougi {m2p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="4086">
+				<rom name="Doubutsu Shougi {m2p2}.p6" size="4086" crc="3068cd50" sha1="81907c4656e7239ec6025394d6fcf9cfe74f950c"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p6051421d3cc3eb3">
+		<description>Dream Land - Akai Fuusen {m1p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="3653">
+				<rom name="Dream Land - Akai Fuusen {m1p2}.cas" size="3653" crc="e11fc251" sha1="51421d3cc3eb36b273c93d36c76269cd6cc6b360"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="p60b36de4588a9e1">
 		<description>En no Kireme ga Kane no Kireme {m1p1}</description>
 		<year>????</year>
@@ -539,6 +659,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="1400">
 				<rom name="F-Dot 2 (preview ver.) {m2p2}.p6" size="1400" crc="6d73f25f" sha1="939fed7e55a94bb70911b78042159d96cc20f99b"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p60c3bffcb6419ec">
+		<description>F-Dot 2 {m2p2}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="4880">
+				<rom name="F-Dot 2 {m2p2}.p6" size="4880" crc="3e4655dd" sha1="c3bffcb6419ec79398d4e0f6e1ba0aae5d934ba9"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1589,6 +1719,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="9627">
 				<rom name="Tacom Island {m1p1}.p6" size="9627" crc="19dcd0dc" sha1="94395bd8e769448ecf8c1eaf51a3a6770d346c3e"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p602478f8a396ef6">
+		<description>Take Off 6000 {m1p1}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="996">
+				<rom name="Take Off 6000 {m1p1}.cas" size="996" crc="86f45f12" sha1="2478f8a396ef60aad73c4e1a589baa2227a17529"/>
 			</dataarea>
 		</part>
 	</software>

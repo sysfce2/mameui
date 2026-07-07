@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7923 -->
+<!-- Number of items in this list = 7926 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -27949,6 +27949,26 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="65105">
 				<rom name="Glider Rider (1987)(Quicksilva).tap" size="65105" crc="2789b5bb" sha1="d44c0e75dd32a887b0b40ea69f7ab01a09ab112f"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs14237f9ea66e3">
+		<description>GlitchSist EN 128K (2026)(Tartessos Games)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="90656">
+				<rom name="GlitchSist EN 128K (2026)(Tartessos Games).tap" size="90656" crc="bbd36c0d" sha1="14237f9ea66e39683e0975bebadd4b39e999137e"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs4aa9c226a0161">
+		<description>GlitchSist ES 128K (2026)(Tartessos Games)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="90943">
+				<rom name="GlitchSist ES 128K (2026)(Tartessos Games).tap" size="90943" crc="024a7842" sha1="4aa9c226a016110338dcc13079e479052588c0bd"/>
 			</dataarea>
 		</part>
 	</software>
@@ -67019,6 +67039,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="70103">
 				<rom name="Yazzie 128K (2019)(RetroSouls).tap" size="70103" crc="68d21e49" sha1="97c5adad67bba0633780976d21a9e6de70bd2706"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs0883fc67a9fc8">
+		<description>Yazzie Junior 128K (2026)(RetroSouls)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="128672">
+				<rom name="Yazzie Junior 128K (2026)(RetroSouls).tap" size="128672" crc="bd3699dd" sha1="0883fc67a9fc8be71812ec53a6ea5b4e362df6ff"/>
 			</dataarea>
 		</part>
 	</software>
