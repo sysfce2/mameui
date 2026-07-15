@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7926 -->
+<!-- Number of items in this list = 7927 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -22859,6 +22859,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="28709">
 				<rom name="Enduro (1984)(Activision)[a].tap" size="28709" crc="55cf5bd9" sha1="c6818b0ef053bca8b6a553b109668ce3f7bb72ac"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs8b70a7d068b2a">
+		<description>Enduro 48K (1984)(Activision)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="14407">
+				<rom name="Enduro 48K (1984)(Activision).tzx" size="14407" crc="243b414c" sha1="8b70a7d068b2a467419ab53c10a333251e96dded"/>
 			</dataarea>
 		</part>
 	</software>

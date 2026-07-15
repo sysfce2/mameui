@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 4109 -->
+<!-- Number of items in this list = 4118 -->
 <softwarelist name="snes" description="snes loose roms">
 	<software name="snsd1346f1df3666">
 		<description>(demo) STRDEMO</description>
@@ -6522,6 +6522,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="sns957e8978e28b1">
+		<description>Crash Bandicoot and the Retro Dimension Enhanced EN v1.23 (2025-26)(Bandicoot)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Crash Bandicoot and the Retro Dimension Enhanced EN v1.23 (2025-26)(Bandicoot).sfc" size="4194304" crc="04e5840b" sha1="957e8978e28b1f5590f53e6219bf25a16a73dce4"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="sns36bcb563fede7">
 		<description>Crash Bandicoot and the Retro Dimension Enhanced EN v1.23 (2026)(Bandicoot)</description>
 		<year>????</year>
@@ -6569,6 +6579,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="4194304">
 				<rom name="Crash Bandicoot e a Dimensao Retro Enhanced PT v1.23 (2026)(Bandicoot).sfc" size="4194304" crc="2dd84a5c" sha1="b1d08d10e440ce6c9d0286d4d12e6194edb183fb"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="snsa372fd5f166b6">
+		<description>Crash Bandicoot e a Dimensao Retro Versao Melhorada PT v1.23 (2025-26)(Bandicoot)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Crash Bandicoot e a Dimensao Retro Versao Melhorada PT v1.23 (2025-26)(Bandicoot).sfc" size="4194304" crc="ccff27c5" sha1="a372fd5f166b60c7ca39797baa9c76949d61744d"/>
 			</dataarea>
 		</part>
 	</software>
@@ -8579,6 +8599,26 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="4194304">
 				<rom name="EarthBound (USA) [Story Mod v2.5 by EB_Girl] (Giftman Chronicles).sfc" size="4194304" crc="5ffbabd6" sha1="9a27b0577a685c93760ff17e0d95a89e373af8a3"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="snsfe8c7226a1610">
+		<description>EarthBound - Giygas Strikes Back! (2026)(The EBBR Team &amp; PK Hack)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="EarthBound - Giygas Strikes Back! (2026)(The EBBR Team &amp; PK Hack).sfc" size="4194304" crc="f096a9ad" sha1="fe8c7226a1610377caac01b2ff14b0c4efddd753"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns2008fae1c3b1b">
+		<description>EarthBound Beginnings Remake v1.2 (2026)(The EBBR Team &amp; PK Hack)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="EarthBound Beginnings Remake v1.2 (2026)(The EBBR Team &amp; PK Hack).sfc" size="4194304" crc="51bc901b" sha1="2008fae1c3b1b43ec0e7a86be5233abde4d6b91b"/>
 			</dataarea>
 		</part>
 	</software>
@@ -22162,6 +22202,36 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="snsc3160041006b6">
+		<description>Power of the Hired (J)(1994)(NCS)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="1572864">
+				<rom name="Power of the Hired (J)(1994)(NCS).sfc" size="1572864" crc="cf276c80" sha1="c3160041006b6f7c8ca8294efcf9c7c18a2c6743"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns157d232613c4a">
+		<description>Power of the Hired T-Chs (2026)(XiaoGuihun)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Power of the Hired T-Chs (2026)(XiaoGuihun).sfc" size="2097152" crc="ce52c28d" sha1="157d232613c4a27d584e3d013814f7e891e90e52"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns24402d79a06b3">
+		<description>Power of the Hired T-Eng v0.75 (2021)(Dynamic-Designs)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="1572864">
+				<rom name="Power of the Hired T-Eng v0.75 (2021)(Dynamic-Designs).sfc" size="1572864" crc="d7659c54" sha1="24402d79a06b3ebc1a479510104abb37849c1924"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="sns257d678211933">
 		<description>Power Sokoban T-Eng (2019)(Saffith)</description>
 		<year>????</year>
@@ -22859,6 +22929,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="1048576">
 				<rom name="Reznor's Passfort (updated) (SMW1 Hack).sfc" size="1048576" crc="4da97fa3" sha1="dc7053fa6e91aa266d201062e459241932de63d2"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns35ae4e6cfbedf">
+		<description>Rick Dangerous (2014)(Alekmaul)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="524288">
+				<rom name="Rick Dangerous (2014)(Alekmaul).sfc" size="524288" crc="21c09a2d" sha1="35ae4e6cfbedf39082ad1abb61cbace5f04f0c40"/>
 			</dataarea>
 		</part>
 	</software>
@@ -32329,6 +32409,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Stargate PT-BR v.77b rev.30 (2025)(Neodash).sfc" size="2097152" crc="74598268" sha1="205da07fec991bcc4dad6eb4ec6a4de4e1afcd89"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns81002a178290a">
+		<description>Stargate PT-BR v1.0a (2025-26)(Neodash)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Stargate PT-BR v1.0a (2025-26)(Neodash).sfc" size="2097152" crc="5884863f" sha1="81002a178290aebbafaa13945a63326ec17ecc12"/>
 			</dataarea>
 		</part>
 	</software>

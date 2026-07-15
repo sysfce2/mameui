@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 217 -->
+<!-- Number of items in this list = 196 -->
 <softwarelist name="pc6001_cass" description="pc6001_cass loose roms">
 	<software name="p606261e6a462162">
 		<description>1-Screen Programs (01 On-naji) {m1p1}</description>
@@ -272,206 +272,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p607bdb3586335c3">
-		<description>AX-1 (Arabian Rhapsody) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6301">
-				<rom name="AX-1 (Arabian Rhapsody) {m1p2}.cas" size="6301" crc="e650de95" sha1="7bdb3586335c349230fd62a44806bb201a49c119"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60a87cac3e53fcd">
-		<description>AX-1 (Barricade) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="4167">
-				<rom name="AX-1 (Barricade) {m1p2}.cas" size="4167" crc="a991614f" sha1="a87cac3e53fcdbf1c78ff90097b54e19b06b0512"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p601086d76df3e03">
-		<description>AX-1 (Demo) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="13510">
-				<rom name="AX-1 (Demo) {m1p1}.cas" size="13510" crc="5a7a7321" sha1="1086d76df3e03427b0181e704186f827828ab011"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p6091684c965e7df">
-		<description>AX-1 (Simon) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="4526">
-				<rom name="AX-1 (Simon) {m1p2}.cas" size="4526" crc="4241fc84" sha1="91684c965e7dfd2ebf81746dce45cdc1cb7cf561"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p601fe5b673aa916">
-		<description>AX-2 (Demo) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="13510">
-				<rom name="AX-2 (Demo) {m1p1}.cas" size="13510" crc="6ec7beb5" sha1="1fe5b673aa916778fbd865b72fe95bc58582f832"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60dfbeab5d3f781">
-		<description>AX-2 (Dual Alien) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6414">
-				<rom name="AX-2 (Dual Alien) {m1p2}.cas" size="6414" crc="8a1557ab" sha1="dfbeab5d3f781b62d8be4e1d7b8a7774569001c3"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p607c813d25edd6a">
-		<description>AX-2 (In the Woods) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="3611">
-				<rom name="AX-2 (In the Woods) {m1p2}.cas" size="3611" crc="b4e6d9c3" sha1="7c813d25edd6ae3a2a3999414f3dc3623d9e8523"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60a1f7cfbb805f1">
-		<description>AX-2 (Steal Alien) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6378">
-				<rom name="AX-2 (Steal Alien) {m1p1}.cas" size="6378" crc="0c3903fe" sha1="a1f7cfbb805f1d176395e4509180d959830ce3fa"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60887296d1e41ea">
-		<description>AX-3 (Cosmic Revo) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="3426">
-				<rom name="AX-3 (Cosmic Revo) {m1p1}.cas" size="3426" crc="c7f58d20" sha1="887296d1e41ea5a32587c92c345e07d10b9816a0"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60649fe00137eb0">
-		<description>AX-3 (Inter-Fight) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5950">
-				<rom name="AX-3 (Inter-Fight) {m1p2}.cas" size="5950" crc="342f9e2a" sha1="649fe00137eb057232485998ddbb196689a2190d"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60dabdc23c6b85e">
-		<description>AX-3 (Slot Poker) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5429">
-				<rom name="AX-3 (Slot Poker) {m1p1}.cas" size="5429" crc="e4cdd54a" sha1="dabdc23c6b85efb8a693ef800b56f18a52de21a0"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p609dfd29f4026f2">
-		<description>AX-4 (American Football) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6840">
-				<rom name="AX-4 (American Football) {m1p1}.cas" size="6840" crc="fcba84bb" sha1="9dfd29f4026f28fbada54bec16d49615697d679c"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p6005a22e03f5314">
-		<description>AX-4 (Black Hole) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6084">
-				<rom name="AX-4 (Black Hole) {m1p1}.cas" size="6084" crc="81936ff9" sha1="05a22e03f53142905fae6b615f69d20a88c3420e"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60261cb2567546e">
-		<description>AX-4 (Car Race) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5717">
-				<rom name="AX-4 (Car Race) {m1p2}.cas" size="5717" crc="a101aa0b" sha1="261cb2567546e800b3af4e3fa4bd0226198d29fd"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p609996049a4f7f0">
-		<description>AX-4 (Shut the Box) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5863">
-				<rom name="AX-4 (Shut the Box) {m1p1}.cas" size="5863" crc="2f137847" sha1="9996049a4f7f0820cd754ae2a743dbed85996273"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60ab0cfe272400c">
-		<description>AX-6 (Mastermind) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6841">
-				<rom name="AX-6 (Mastermind) {m1p1}.cas" size="6841" crc="074faa75" sha1="ab0cfe272400c493d8fc563ce7d9f0f62d34ba99"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60563db18352ccc">
-		<description>AX-7 (Galaxy Fight) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6801">
-				<rom name="AX-7 (Galaxy Fight) {m1p1}.cas" size="6801" crc="2fbfa59f" sha1="563db18352ccc6fc9b8c2cd1e26ae2045799b972"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60c66bfaf5956d5">
-		<description>AX-7 (God Hurricane) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6944">
-				<rom name="AX-7 (God Hurricane) {m1p1}.cas" size="6944" crc="acac3902" sha1="c66bfaf5956d5ca5fb69403de7fdfe321009e79a"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60284a11789e69e">
-		<description>AX-7 (Police &amp; Gang) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6163">
-				<rom name="AX-7 (Police &amp; Gang) {m1p1}.cas" size="6163" crc="6beb7e0f" sha1="284a11789e69e2ca2c78d58f781a16412eb753b3"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p604dc310922c6c2">
-		<description>AX-7 (The Asterodian) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5477">
-				<rom name="AX-7 (The Asterodian) {m1p1}.cas" size="5477" crc="8a6ba775" sha1="4dc310922c6c20daa79f324bd2f6a1334e09d886"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p605c77807dbb8bb">
 		<description>BA-maga Daisakusen {m5p3}</description>
 		<year>????</year>
@@ -659,16 +459,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="1400">
 				<rom name="F-Dot 2 (preview ver.) {m2p2}.p6" size="1400" crc="6d73f25f" sha1="939fed7e55a94bb70911b78042159d96cc20f99b"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60c3bffcb6419ec">
-		<description>F-Dot 2 {m2p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="4880">
-				<rom name="F-Dot 2 {m2p2}.p6" size="4880" crc="3e4655dd" sha1="c3bffcb6419ec79398d4e0f6e1ba0aae5d934ba9"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1159,6 +949,16 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="6407">
 				<rom name="Magic {m1p2}.p6" size="6407" crc="eb4bcbb3" sha1="083f01abba7f5a0ee230b0284a484333ed26b985"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="p600104541ae2aa6">
+		<description>mandelbrot demo fixed{m5p3}</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="snap" interface="pc6001_snap">
+			<dataarea name="snap" size="4774">
+				<rom name="mandelbrot demo fixed{m5p3}.p6" size="4774" crc="f711fd17" sha1="0104541ae2aa68405ded47b706a908d313ab406a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1719,16 +1519,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="9627">
 				<rom name="Tacom Island {m1p1}.p6" size="9627" crc="19dcd0dc" sha1="94395bd8e769448ecf8c1eaf51a3a6770d346c3e"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p602478f8a396ef6">
-		<description>Take Off 6000 {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="996">
-				<rom name="Take Off 6000 {m1p1}.cas" size="996" crc="86f45f12" sha1="2478f8a396ef60aad73c4e1a589baa2227a17529"/>
 			</dataarea>
 		</part>
 	</software>

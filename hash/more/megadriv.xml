@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 2095 -->
+<!-- Number of items in this list = 2096 -->
 <softwarelist name="megadriv" description="megadriv loose roms">
 	<software name="gena3084262f5af4">
 		<description>(demo) Sonic no way</description>
@@ -13459,6 +13459,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1048576">
 				<rom name="Puyo Puyo T-Eng US (2025)(RadioTails).bin" size="1048576" crc="6b5ebd1c" sha1="48637ea9b34f018d200da5cd3b1e878b73d3f713"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen4d3200164701e">
+		<description>Puyo Puyo T-Eng v1.1 (2025)(RadioShadow)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="1048576">
+				<rom name="Puyo Puyo T-Eng v1.1 (2025)(RadioShadow).bin" size="1048576" crc="c081a1ff" sha1="4d3200164701ec0dbbfc841ad10a326a299fe6fe"/>
 			</dataarea>
 		</part>
 	</software>
