@@ -7833,22 +7833,22 @@
 		</part>
 	</software>
 	<software name="zxs8dbe387248fd9">
-		<description>Baby-Man Vs Terminatots PT2 - Game 48K (2ß26)(PuttyCAD, Tin Soldier)</description>
+		<description>Baby-Man Vs Terminatots PT2 - Game 48K (2026)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="46230">
-				<rom name="Baby-Man Vs Terminatots PT2 - Game 48K (2ß26)(PuttyCAD, Tin Soldier).tap" size="46230" crc="db090c28" sha1="8dbe387248fd93cf2c64fb39fa94774fbeff4f44"/>
+				<rom name="Baby-Man Vs Terminatots PT2 - Game 48K (2026)(PuttyCAD, 100 Tin Soldiers).tap" size="46230" crc="db090c28" sha1="8dbe387248fd93cf2c64fb39fa94774fbeff4f44"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxs8d67a6677b315">
-		<description>Baby-Man Vs Terminatots PT2 - Intro 48K (2ß26)(PuttyCAD, Tin Soldier)</description>
+		<description>Baby-Man Vs Terminatots PT2 - Intro 48K (2026)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="33040">
-				<rom name="Baby-Man Vs Terminatots PT2 - Intro 48K (2ß26)(PuttyCAD, Tin Soldier).tap" size="33040" crc="b0cac1f9" sha1="8d67a6677b315fe16e45fca17ec5a3903a3bdc5d"/>
+				<rom name="Baby-Man Vs Terminatots PT2 - Intro 48K (2026)(PuttyCAD, 100 Tin Soldiers).tap" size="33040" crc="b0cac1f9" sha1="8d67a6677b315fe16e45fca17ec5a3903a3bdc5d"/>
 			</dataarea>
 		</part>
 	</software>
