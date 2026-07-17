@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 2096 -->
+<!-- Number of items in this list = 2102 -->
 <softwarelist name="megadriv" description="megadriv loose roms">
 	<software name="gena3084262f5af4">
 		<description>(demo) Sonic no way</description>
@@ -5242,6 +5242,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="gen4bee752cd2205">
+		<description>Chou Touryuu Retsuden Dino Land (Japan)(1991)(Wolf Team)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="524288">
+				<rom name="Chou Touryuu Retsuden Dino Land (Japan)(1991)(Wolf Team).bin" size="524288" crc="81f939de" sha1="4bee752cd2205d60b9d3c7a58e0e90a4837522de"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="genc7eab0f0936e6">
 		<description>Chuck Rock (USA)</description>
 		<year>????</year>
@@ -5823,12 +5833,12 @@
 		</part>
 	</software>
 	<software name="gen94fbc9e1d4002">
-		<description>Devi and Pii (2022)(Mega Drive Mini 2 Ed.)</description>
+		<description>Devi and Pii (Mega Drive Mini 2 Edition)(2022)(Sega)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="524288">
-				<rom name="Devi and Pii (2022)(Mega Drive Mini 2 Ed.).bin" size="524288" crc="425e9e31" sha1="94fbc9e1d400286d8c0f2504fef88e8f323c01aa"/>
+				<rom name="Devi and Pii (Mega Drive Mini 2 Edition)(2022)(Sega).bin" size="524288" crc="425e9e31" sha1="94fbc9e1d400286d8c0f2504fef88e8f323c01aa"/>
 			</dataarea>
 		</part>
 	</software>
@@ -6009,6 +6019,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1048576">
 				<rom name="Dr. Robotnik's Mean Bean Machine (US) [T+Fre1.0_Alb_A_Tort].bin" size="1048576" crc="c01a3292" sha1="4f9c1bd1922c55262586748d7d2e8b4336509ebc"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gend5da10e996607">
+		<description>Dr. Robotnik's Mean Bean Machine DX Edition v3.3 (2024)(RadioTails)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Dr. Robotnik's Mean Bean Machine DX Edition v3.3 (2024)(RadioTails).bin" size="2097152" crc="d2856474" sha1="d5da10e996607e75714f6d89226e6ea27621af29"/>
 			</dataarea>
 		</part>
 	</software>
@@ -6469,6 +6489,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="524288">
 				<rom name="fantasia (u) (rev00) [!].md" size="524288" crc="34e04627" sha1="e1d84357eb8dfb972f22e80b8d26a0b66167f69e"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen51db3d252be61">
+		<description>Fantasy Zone (Mega Drive Mini 2 Edition)(2022)(Sega)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="2621440">
+				<rom name="Fantasy Zone (Mega Drive Mini 2 Edition)(2022)(Sega).bin" size="2621440" crc="da31f3ac" sha1="51db3d252be61f9949b6a841b6eb23a5fe288a32"/>
 			</dataarea>
 		</part>
 	</software>
@@ -6959,6 +6989,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1572864">
 				<rom name="fushigi no umi no nadia (english translation).md" size="1572864" crc="8dec9c35" sha1="2b14aebf4510f02c6fe220a32a2f709db91f60c3"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen17794fa74dc4b">
+		<description>Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2) (Sound Fix)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Futari de Puyo Puyo Sun (Japan) (Mega Drive Mini 2) (Sound Fix).md" size="4194304" crc="dfecfdac" sha1="17794fa74dc4bf7648f569426f8f759a0e797008"/>
 			</dataarea>
 		</part>
 	</software>
@@ -12502,6 +12542,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="gend29f7e70feae3">
+		<description>Nikkan Sports Pro Yakyuu VAN (Japan)(1991)(Sega)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="524288">
+				<rom name="Nikkan Sports Pro Yakyuu VAN (Japan)(1991)(Sega).bin" size="524288" crc="c3655a59" sha1="d29f7e70feae3b4f1b423026b7a124514ee48dcf"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="gen4870d31feeef3">
 		<description>ninja burai densetsu (T-Chi)</description>
 		<year>????</year>
@@ -13463,12 +13513,12 @@
 		</part>
 	</software>
 	<software name="gen4d3200164701e">
-		<description>Puyo Puyo T-Eng v1.1 (2025)(RadioShadow)</description>
+		<description>Puyo Puyo T-Eng v1.1 (2026)(RadioTails)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1048576">
-				<rom name="Puyo Puyo T-Eng v1.1 (2025)(RadioShadow).bin" size="1048576" crc="c081a1ff" sha1="4d3200164701ec0dbbfc841ad10a326a299fe6fe"/>
+				<rom name="Puyo Puyo T-Eng v1.1 (2026)(RadioTails).bin" size="1048576" crc="c081a1ff" sha1="4d3200164701ec0dbbfc841ad10a326a299fe6fe"/>
 			</dataarea>
 		</part>
 	</software>
@@ -17753,12 +17803,12 @@
 		</part>
 	</software>
 	<software name="gen8912a78f86996">
-		<description>Spatter (2022)(Mega Drive Mini 2 Ed.)</description>
+		<description>Spatter (Mega Drive Mini 2 Edition)(2022)(Sega)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="524288">
-				<rom name="Spatter (2022)(Mega Drive Mini 2 Ed.).bin" size="524288" crc="84081204" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48"/>
+				<rom name="Spatter (Mega Drive Mini 2 Edition)(2022)(Sega).bin" size="524288" crc="84081204" sha1="8912a78f8699668da6a7ee7a881f98d051c16e48"/>
 			</dataarea>
 		</part>
 	</software>
@@ -17923,12 +17973,12 @@
 		</part>
 	</software>
 	<software name="genb52517cfe78d7">
-		<description>Star Mobile (2022)(Mega Drive Mini 2 Ed.)</description>
+		<description>Star Mobile (Mega Drive Mini 2 Edition)(2022)(Mindware)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="262144">
-				<rom name="Star Mobile (2022)(Mega Drive Mini 2 Ed.).bin" size="262144" crc="39466559" sha1="b52517cfe78d752b3082c24a31b2b536d4c4acde"/>
+				<rom name="Star Mobile (Mega Drive Mini 2 Edition)(2022)(Mindware).bin" size="262144" crc="39466559" sha1="b52517cfe78d752b3082c24a31b2b536d4c4acde"/>
 			</dataarea>
 		</part>
 	</software>
@@ -18423,12 +18473,12 @@
 		</part>
 	</software>
 	<software name="gendb3b2a6392c8f">
-		<description>Super Locomotive (2022)(Mega Drive Mini 2 Ed.)</description>
+		<description>Super Locomotive (Mega Drive Mini 2 Edition)(2022)(Sega)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="262144">
-				<rom name="Super Locomotive (2022)(Mega Drive Mini 2 Ed.).bin" size="262144" crc="c2840b00" sha1="db3b2a6392c8f5ca4fc18cde74bf93169424cf5c"/>
+				<rom name="Super Locomotive (Mega Drive Mini 2 Edition)(2022)(Sega).bin" size="262144" crc="c2840b00" sha1="db3b2a6392c8f5ca4fc18cde74bf93169424cf5c"/>
 			</dataarea>
 		</part>
 	</software>
@@ -20169,6 +20219,16 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1310720">
 				<rom name="Vixen 357 (Japan).bin" size="1310720" crc="3c720fb9" sha1="3d7bdec7a860e0c309a471586d67a4a18c9f3667"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="gen0c2a43d43f922">
+		<description>VS Puyo Puyo Sun (Mega Drive Mini 2 Edition, USA)(2022)(Sega)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="megadriv_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="VS Puyo Puyo Sun (Mega Drive Mini 2 Edition, USA)(2022)(Sega).bin" size="4194304" crc="8e0afeec" sha1="0c2a43d43f92269c8dd530a1c7dcfed5e55f231d"/>
 			</dataarea>
 		</part>
 	</software>

@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7927 -->
+<!-- Number of items in this list = 7933 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -7783,52 +7783,52 @@
 		</part>
 	</software>
 	<software name="zxse8eb45de033ab">
-		<description>Baby-man VS Man-baby 48K (2023)(PuttyCAD, Tin Soldiers)</description>
+		<description>Baby-man VS Man-baby 48K (2023)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="41891">
-				<rom name="Baby-man VS Man-baby 48K (2023)(PuttyCAD, Tin Soldiers).tap" size="41891" crc="7562acb5" sha1="e8eb45de033abda07cb2ec238c907a257867cb67"/>
+				<rom name="Baby-man VS Man-baby 48K (2023)(PuttyCAD, 100 Tin Soldiers).tap" size="41891" crc="7562acb5" sha1="e8eb45de033abda07cb2ec238c907a257867cb67"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxsad81cc4ce186a">
-		<description>Baby-man VS Nappy Bird v1.0 48K (2023)(PuttyCAD, Tin Soldiers)</description>
+		<description>Baby-man VS Nappy Bird v1.0 48K (2023)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="23094">
-				<rom name="Baby-man VS Nappy Bird v1.0 48K (2023)(PuttyCAD, Tin Soldiers).tap" size="23094" crc="f2c4fc89" sha1="ad81cc4ce186a0a51cd63d5d35d763d9767ff4af"/>
+				<rom name="Baby-man VS Nappy Bird v1.0 48K (2023)(PuttyCAD, 100 Tin Soldiers).tap" size="23094" crc="f2c4fc89" sha1="ad81cc4ce186a0a51cd63d5d35d763d9767ff4af"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxsc2ce5d8afe583">
-		<description>Baby-man VS Nappy Bird v1.01 48K (2023)(PuttyCAD, Tin Soldiers)</description>
+		<description>Baby-man VS Nappy Bird v1.01 48K (2023)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="23108">
-				<rom name="Baby-man VS Nappy Bird v1.01 48K (2023)(PuttyCAD, Tin Soldiers).tap" size="23108" crc="70cf01bf" sha1="c2ce5d8afe58386ffc93a8e4bd87de405fd28e42"/>
+				<rom name="Baby-man VS Nappy Bird v1.01 48K (2023)(PuttyCAD, 100 Tin Soldiers).tap" size="23108" crc="70cf01bf" sha1="c2ce5d8afe58386ffc93a8e4bd87de405fd28e42"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxsfebf563655c9d">
-		<description>Baby-man VS Nappy Bird v1.02 48K (2023)(PuttyCAD, Tin Soldiers)</description>
+		<description>Baby-man VS Nappy Bird v1.02 48K (2023)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="23108">
-				<rom name="Baby-man VS Nappy Bird v1.02 48K (2023)(PuttyCAD, Tin Soldiers).tap" size="23108" crc="d1433065" sha1="febf563655c9d3b2574b209b3605533d011e88bc"/>
+				<rom name="Baby-man VS Nappy Bird v1.02 48K (2023)(PuttyCAD, 100 Tin Soldiers).tap" size="23108" crc="d1433065" sha1="febf563655c9d3b2574b209b3605533d011e88bc"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxs8862d71f08fae">
-		<description>Baby-Man VS Terminatots PT1 v1.01 48K (2025)(PuttyCAD, Tin Soldiers)</description>
+		<description>Baby-Man VS Terminatots PT1 v1.01 48K (2025)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="44968">
-				<rom name="Baby-Man VS Terminatots PT1 v1.01 48K (2025)(PuttyCAD, Tin Soldiers).tap" size="44968" crc="4520df8c" sha1="8862d71f08fae3dff2b058b890dd526a46a71152"/>
+				<rom name="Baby-Man VS Terminatots PT1 v1.01 48K (2025)(PuttyCAD, 100 Tin Soldiers).tap" size="44968" crc="4520df8c" sha1="8862d71f08fae3dff2b058b890dd526a46a71152"/>
 			</dataarea>
 		</part>
 	</software>
@@ -37083,52 +37083,52 @@
 		</part>
 	</software>
 	<software name="zxsaa8ece97fd33a">
-		<description>Lockdown Town ZX v1.02 48K (2022)(PuttyCAD, Tin Soldiers)</description>
+		<description>Lockdown Town ZX v1.02 48K (2022)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="30174">
-				<rom name="Lockdown Town ZX v1.02 48K (2022)(PuttyCAD, Tin Soldiers).tap" size="30174" crc="2ee0a21e" sha1="aa8ece97fd33ac71f80f2fdcac20b7f730c1f1c5"/>
+				<rom name="Lockdown Town ZX v1.02 48K (2022)(PuttyCAD, 100 Tin Soldiers).tap" size="30174" crc="2ee0a21e" sha1="aa8ece97fd33ac71f80f2fdcac20b7f730c1f1c5"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxs366da09d2112d">
-		<description>Lockdown Town ZXMas (2022)(PuttyCAD, Tin Soldiers)</description>
+		<description>Lockdown Town ZXMas (2022)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="30591">
-				<rom name="Lockdown Town ZXMas (2022)(PuttyCAD, Tin Soldiers).tap" size="30591" crc="607f00ef" sha1="366da09d2112d9dc31380eb8cf3caec67374dd97"/>
+				<rom name="Lockdown Town ZXMas (2022)(PuttyCAD, 100 Tin Soldiers).tap" size="30591" crc="607f00ef" sha1="366da09d2112d9dc31380eb8cf3caec67374dd97"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxsc369bef2b3643">
-		<description>Lockdown Town ZXMas - Crash Exclusive v1.01 48k (2023)(PuttyCAD)</description>
+		<description>Lockdown Town ZXMAS - Crash Exclusive v1.01 48K (2023)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="32868">
-				<rom name="Lockdown Town ZXMas - Crash Exclusive v1.01 48k (2023)(PuttyCAD).tap" size="32868" crc="8cfbb3e5" sha1="c369bef2b364355b10c1b8d944df075a1abe43b4"/>
+				<rom name="Lockdown Town ZXMAS - Crash Exclusive v1.01 48K (2023)(PuttyCAD, 100 Tin Soldiers).tap" size="32868" crc="8cfbb3e5" sha1="c369bef2b364355b10c1b8d944df075a1abe43b4"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxs6242ec2b699f4">
-		<description>Lockdown Town ZXMas v1.03 48K (2022)(PuttyCAD, Tin Soldiers)</description>
+		<description>Lockdown Town ZXMas v1.03 48K (2022)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="30975">
-				<rom name="Lockdown Town ZXMas v1.03 48K (2022)(PuttyCAD, Tin Soldiers).tap" size="30975" crc="bc1f2f4a" sha1="6242ec2b699f4d5783945943dc58c550e4a86d09"/>
+				<rom name="Lockdown Town ZXMas v1.03 48K (2022)(PuttyCAD, 100 Tin Soldiers).tap" size="30975" crc="bc1f2f4a" sha1="6242ec2b699f4d5783945943dc58c550e4a86d09"/>
 			</dataarea>
 		</part>
 	</software>
 	<software name="zxs8e51a655d267e">
-		<description>Lockdown Town ZXWeen v1.02 48K (2022)(PuttyCAD, Tin Soldiers)</description>
+		<description>Lockdown Town ZXWeen v1.02 48K (2022)(PuttyCAD, 100 Tin Soldiers)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="30441">
-				<rom name="Lockdown Town ZXWeen v1.02 48K (2022)(PuttyCAD, Tin Soldiers).tap" size="30441" crc="4d6a99cf" sha1="8e51a655d267eace3768b6c7527c49c0f9bf0d12"/>
+				<rom name="Lockdown Town ZXWeen v1.02 48K (2022)(PuttyCAD, 100 Tin Soldiers).tap" size="30441" crc="4d6a99cf" sha1="8e51a655d267eace3768b6c7527c49c0f9bf0d12"/>
 			</dataarea>
 		</part>
 	</software>
@@ -42099,6 +42099,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="60560">
 				<rom name="Moritz the Striker 48K (2020)(Sebastian Braunert).tap" size="60560" crc="b1402da9" sha1="1ca245d1f84b0d626a1183267370b85d6a837554"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs08caf8d193206">
+		<description>Morning Star, The 128K (2026)(Dareint)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="105577">
+				<rom name="Morning Star, The 128K (2026)(Dareint).tap" size="105577" crc="5224d856" sha1="08caf8d1932064d81b84cdadb9d3f6345a210d66"/>
 			</dataarea>
 		</part>
 	</software>
@@ -51489,6 +51499,36 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="101721">
 				<rom name="Rival Gangs EXT 128K (2022)(Presh).tap" size="101721" crc="4bb86663" sha1="ece90fbfd16e456e70c8eb6a9678e3d78bd607db"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxsd3bfa8e38453b">
+		<description>Rivenor Relic, The EN 128K (2026)(EdD)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="66552">
+				<rom name="Rivenor Relic, The EN 128K (2026)(EdD).tap" size="66552" crc="0d66cc08" sha1="d3bfa8e38453b18f106d1a982465ce1edbb53dd7"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs51cf65af17342">
+		<description>Rivenor Relic, The ES 128K (2026)(EdD)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="66883">
+				<rom name="Rivenor Relic, The ES 128K (2026)(EdD).tap" size="66883" crc="85a8e2b3" sha1="51cf65af17342b5f34d083b190fc48cff99fc19d"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs11d8f445274f9">
+		<description>Rivenor Relic, The PT 128K (2026)(EdD)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="66821">
+				<rom name="Rivenor Relic, The PT 128K (2026)(EdD).tap" size="66821" crc="f2040194" sha1="11d8f445274f98ab9f3c5c0ec95f2a06592b7285"/>
 			</dataarea>
 		</part>
 	</software>
@@ -69413,12 +69453,12 @@
 		</part>
 	</software>
 	<software name="zxsc5c9de2e39de0">
-		<description>_Cauldron</description>
+		<description>_Cauldron 48K (1985)(Palace)</description>
 		<year>????</year>
 		<publisher>unknown</publisher>
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="48478">
-				<rom name="_Cauldron.tzx" size="48478" crc="fa11b833" sha1="c5c9de2e39de04e016031f5f7fdd1ecc43360b66"/>
+				<rom name="_Cauldron 48K (1985)(Palace).tzx" size="48478" crc="fa11b833" sha1="c5c9de2e39de04e016031f5f7fdd1ecc43360b66"/>
 			</dataarea>
 		</part>
 	</software>
@@ -76619,6 +76659,26 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="47616">
 				<rom name="_River Raid (1984)(Activision)[a].tap" size="47616" crc="e130d1bf" sha1="a6dac0bc757607ba2efad44017c4d1e40ca856c0"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs1310020ff0b07">
+		<description>_River Raid 48K (1984)(Activision)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="47211">
+				<rom name="_River Raid 48K (1984)(Activision).tzx" size="47211" crc="ea6b57d3" sha1="1310020ff0b07ef7d628f1bd7674629073d84af1"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs3f215abbb8503">
+		<description>_River Raid+ v0.2 48K (2026)(theALFEST)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="22554">
+				<rom name="_River Raid+ v0.2 48K (2026)(theALFEST).tap" size="22554" crc="2e917c63" sha1="3f215abbb8503063ef6662796392b689fc7045ac"/>
 			</dataarea>
 		</part>
 	</software>
