@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 4120 -->
+<!-- Number of items in this list = 4133 -->
 <softwarelist name="snes" description="snes loose roms">
 	<software name="snsd1346f1df3666">
 		<description>(demo) STRDEMO</description>
@@ -19892,6 +19892,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="snsa0eebf715c937">
+		<description>Momotarou Dentetsu Happy (J)(1996)(Hudson)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="3145728">
+				<rom name="Momotarou Dentetsu Happy (J)(1996)(Hudson).sfc" size="3145728" crc="0b8d1474" sha1="a0eebf715c93751c6423dc277717e365d69c735f"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="sns09acbe02def31">
 		<description>Monopoly Game 2, The (J, Rev 1)(1995)(Tomy - Ape)</description>
 		<year>????</year>
@@ -23312,6 +23322,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="sns0d3423a9d7e31">
+		<description>Romancing Sa-Ga 2 (J)(1993)(Squaresoft)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Romancing Sa-Ga 2 (J)(1993)(Squaresoft).sfc" size="2097152" crc="54a585bc" sha1="0d3423a9d7e315a15ff8a3be588c65bd110e3d65"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="snsc83cc595852c6">
 		<description>Romancing Sa-Ga 2 (Japan) [En v0.05c by Gilhide] (Incomplete)</description>
 		<year>????</year>
@@ -23319,6 +23339,26 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Romancing Sa-Ga 2 (Japan) [En v0.05c by Gilhide] (Incomplete).sfc" size="2097152" crc="e292acf8" sha1="c83cc595852c65f874659fb3d210d5dcf270afb6"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns5b5825fa0f645">
+		<description>Romancing Sa-Ga 2 T-Chs v1.1 (2026)(Meltina)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2621440">
+				<rom name="Romancing Sa-Ga 2 T-Chs v1.1 (2026)(Meltina).smc" size="2621440" crc="c61dc65e" sha1="5b5825fa0f64501e66deebe1277c0a7e2bdbb6f6"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns9551d31f33053">
+		<description>Romancing Sa-Ga 2 T-Cht v1.1 (2026)(Meltina)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2621440">
+				<rom name="Romancing Sa-Ga 2 T-Cht v1.1 (2026)(Meltina).smc" size="2621440" crc="4211bff7" sha1="9551d31f330533dc8b63bc6730165acb351fddec"/>
 			</dataarea>
 		</part>
 	</software>
@@ -32422,6 +32462,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="sns0fb9483959a20">
+		<description>Star Fox EX v1.11.02b (2025)(kandowontu, Sunlitspace542)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Star Fox EX v1.11.02b (2025)(kandowontu, Sunlitspace542).sfc" size="2097152" crc="667bea0d" sha1="0fb9483959a206aa5023876e481b2b40eec1a657"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="sns205da07fec991">
 		<description>Stargate PT-BR v.77b rev.30 (2025)(Neodash)</description>
 		<year>????</year>
@@ -33569,6 +33619,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Super Maio DROW (or DLROW) (SMW1 Hack).sfc" size="2097152" crc="cea1ba6d" sha1="2554c0adf2934fd516287f75b15a83e3bf21aeb6"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="snsbb300ecf5b212">
+		<description>Super Mario - A Ilha do Yoshi PT-BR (2026)(Grupo Atlas)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Mario - A Ilha do Yoshi PT-BR (2026)(Grupo Atlas).sfc" size="2097152" crc="243bf28a" sha1="bb300ecf5b2127a8ce42b07419aa33a21c7c4620"/>
 			</dataarea>
 		</part>
 	</software>
@@ -35472,6 +35532,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="sns18884bd632640">
+		<description>Super Mario World - The Magical Golden Mushroom EN v1.2 (2026)(Green Jerry)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Mario World - The Magical Golden Mushroom EN v1.2 (2026)(Green Jerry).sfc" size="2097152" crc="4c531651" sha1="18884bd632640a1bc6bb08a38ff1cf4e88aa6bb4"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="snsbee1d9999c516">
 		<description>Super Mario World - the master courses (SWM1 hack)</description>
 		<year>????</year>
@@ -35699,6 +35769,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Super Mario World 2 - Yoshi's Island (USA) [Level Mod v1.0 by Golden Yoshi] (~SMW2+2 - Yoshi's Island).sfc" size="2097152" crc="61aae337" sha1="09608a830e8d023f77bd7c707160ecb17b374af6"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns4e5ee4f6d0fe1">
+		<description>Super Mario World 2 - Yoshi's Island - The Definitive Edition v0.5 (2026)(T-Bone)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Mario World 2 - Yoshi's Island - The Definitive Edition v0.5 (2026)(T-Bone).sfc" size="2097152" crc="0c46bc60" sha1="4e5ee4f6d0fe1cb3cbec8a78ed25043b04eb9fdf"/>
 			</dataarea>
 		</part>
 	</software>
@@ -37222,6 +37302,26 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="sns0f9e633ca596d">
+		<description>Super Metroid T-Chs v1.0 (2025)(aGuGu)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Super Metroid T-Chs v1.0 (2025)(aGuGu).sfc" size="4194304" crc="84d1428a" sha1="0f9e633ca596d3e6cc71a749a358c4cc6b410572"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="snsed7a5d43e8e6a">
+		<description>Super Metroid T-Cht v1.0 (2025)(aGuGu)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="4194304">
+				<rom name="Super Metroid T-Cht v1.0 (2025)(aGuGu).sfc" size="4194304" crc="283eced5" sha1="ed7a5d43e8e6af7d5c86230b58e72a6c56927c9c"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="snsed6040b3e8d94">
 		<description>Super Metroid Vino Rev4 (hack)</description>
 		<year>????</year>
@@ -37309,6 +37409,26 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Super Mundo Mario - As 4 Varinhas Magicas PT V1.0.2 (2025)(Green Jerry).sfc" size="2097152" crc="921ad698" sha1="f267af1dfbb8bbd4b2914179951d6d25ddd92bae"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns7210d1d40c343">
+		<description>Super Mundo Mario - El Champinon Dorado Magico ES v1.2 (2026)(Green Jerry)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Mundo Mario - El Champinon Dorado Magico ES v1.2 (2026)(Green Jerry).sfc" size="2097152" crc="5dc236b7" sha1="7210d1d40c343caebcaa98a092e3aff2b67ee1ac"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns30ab12b5a9095">
+		<description>Super Mundo Mario - O Cogumelo Dourado Magico PT v1.2 (2026)(Green Jerry)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Mundo Mario - O Cogumelo Dourado Magico PT v1.2 (2026)(Green Jerry).sfc" size="2097152" crc="ce056e71" sha1="30ab12b5a90955449bacedba3c3c8eafc52521b3"/>
 			</dataarea>
 		</part>
 	</software>
@@ -37459,6 +37579,16 @@
 		<part name="cart" interface="snes_cart">
 			<dataarea name="rom" size="2097152">
 				<rom name="Super Ping World.sfc" size="2097152" crc="4584786c" sha1="c7d0466ce27100ac13ad3d2f9c89a54d47d7bae7"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="sns632061ae4892e">
+		<description>Super Power League 4 (J)(1996)(Hudson)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cart" interface="snes_cart">
+			<dataarea name="rom" size="2097152">
+				<rom name="Super Power League 4 (J)(1996)(Hudson).sfc" size="2097152" crc="c07f099d" sha1="632061ae4892ec6cd75616da66f7be5c75e8d7af"/>
 			</dataarea>
 		</part>
 	</software>

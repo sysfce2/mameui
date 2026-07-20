@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 7933 -->
+<!-- Number of items in this list = 7937 -->
 <softwarelist name="spectrum_cass" description="spectrum_cass loose roms">
 	<software name="zxs54eb2ea1cbe49">
 		<description>(demo)63 BIT 3 (19xx)(-)</description>
@@ -56962,6 +56962,16 @@
 			</dataarea>
 		</part>
 	</software>
+	<software name="zxsa53c08f839780">
+		<description>Space Invaders Co-Op v2.1 48K-128K (2026)(SplinterGU)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="32851">
+				<rom name="Space Invaders Co-Op v2.1 48K-128K (2026)(SplinterGU).tzx" size="32851" crc="adf3ac99" sha1="a53c08f839780141133ab69dbc1a9bfd3af76e0f"/>
+			</dataarea>
+		</part>
+	</software>
 	<software name="zxs691f98a6fcc69">
 		<description>Space Island (1983)(Terminal Software)</description>
 		<year>????</year>
@@ -57069,6 +57079,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="88616">
 				<rom name="Space Racing v1.2 128K (2021)(Voxel Tower).tap" size="88616" crc="64e0ef40" sha1="60e97ee782efdfabb447b2bee8d75f4ce613d7b4"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxscbf4fce20af51">
+		<description>Space Racing v1.3 128K (2021-22)(Voxel Tower)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="88705">
+				<rom name="Space Racing v1.3 128K (2021-22)(Voxel Tower).tap" size="88705" crc="9e549381" sha1="cbf4fce20af518b7386967b122d6002ad7b98001"/>
 			</dataarea>
 		</part>
 	</software>
@@ -57679,6 +57699,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="44915">
 				<rom name="Spider Blast EN 48K-128K (2026)(Wizbit Games).tap" size="44915" crc="d6d49818" sha1="4ef0075e6b6f936707665dbbbe3fa443a1cb0637"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxs3a6dbda49b7cd">
+		<description>Spider Blast EN 48K-128K (2026)(Wizbit Games)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="44943">
+				<rom name="Spider Blast EN 48K-128K (2026)(Wizbit Games).tzx" size="44943" crc="de9838da" sha1="3a6dbda49b7cd0d6c4cf7be65bfd681d750651ef"/>
 			</dataarea>
 		</part>
 	</software>
@@ -65299,6 +65329,16 @@
 		<part name="cass" interface="spectrum_cass">
 			<dataarea name="cass" size="38157">
 				<rom name="Wacky Darts.tzx" size="38157" crc="e2454f32" sha1="089770612877f46232973a808d783f8b6a0f3867"/>
+			</dataarea>
+		</part>
+	</software>
+	<software name="zxsae9fd023ce565">
+		<description>Wacky Robot v1.1 16K (2026)(Cronosoft)</description>
+		<year>????</year>
+		<publisher>unknown</publisher>
+		<part name="cass" interface="spectrum_cass">
+			<dataarea name="cass" size="7104">
+				<rom name="Wacky Robot v1.1 16K (2026)(Cronosoft).tap" size="7104" crc="fb80b515" sha1="ae9fd023ce565834605fec7a9ce5b6caa787339f"/>
 			</dataarea>
 		</part>
 	</software>

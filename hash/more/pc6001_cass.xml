@@ -1,137 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 196 -->
+<!-- Number of items in this list = 156 -->
 <softwarelist name="pc6001_cass" description="pc6001_cass loose roms">
-	<software name="p606261e6a462162">
-		<description>1-Screen Programs (01 On-naji) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="412">
-				<rom name="1-Screen Programs (01 On-naji) {m1p1}.p6" size="412" crc="b4b8e8f7" sha1="6261e6a4621620f971ef94c5212648f773e78a17"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60cb7cb7e869ba1">
-		<description>1-Screen Programs (02 Iroai) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="407">
-				<rom name="1-Screen Programs (02 Iroai) {m1p1}.p6" size="407" crc="a21cd88b" sha1="cb7cb7e869ba1d767bb6f4a2898292a5d91dd3a7"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p606b5360311a2b5">
-		<description>1-Screen Programs (03 Tiny Typing Game) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="290">
-				<rom name="1-Screen Programs (03 Tiny Typing Game) {m1p1}.p6" size="290" crc="5eb0d127" sha1="6b5360311a2b58ab4208b8eaf383b51b9ef2657f"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60e480699b67885">
-		<description>1-Screen Programs (06 Nuketashi) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="403">
-				<rom name="1-Screen Programs (06 Nuketashi) {m1p1}.p6" size="403" crc="d9fe924c" sha1="e480699b67885cdd86889a022d141b0d9d1f1483"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60c2c8f854f363c">
-		<description>1-Screen Programs (07 Rendori) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="423">
-				<rom name="1-Screen Programs (07 Rendori) {m1p1}.p6" size="423" crc="5a95dda3" sha1="c2c8f854f363c01dd1d2a059fa990f876ce7f832"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p602bc9a35abcab1">
-		<description>1-Screen Programs (09 At-tobi) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="419">
-				<rom name="1-Screen Programs (09 At-tobi) {m1p1}.p6" size="419" crc="8e66d62c" sha1="2bc9a35abcab189b52bee923fc5c0e95201786d7"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p600a0454687f2ce">
-		<description>1-Screen Programs (10 Atehate) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="392">
-				<rom name="1-Screen Programs (10 Atehate) {m1p1}.p6" size="392" crc="5010282f" sha1="0a0454687f2ce3658d46d135fb51f59ed4cb58d2"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60d4ca344afae39">
-		<description>1-Screen Programs (11 Chika yori) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="391">
-				<rom name="1-Screen Programs (11 Chika yori) {m1p1}.p6" size="391" crc="fa370664" sha1="d4ca344afae3943c880d4b3dda3b0af1384820ed"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p609448e1dc7ec92">
-		<description>1-Screen Programs (13 Mukudori) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="393">
-				<rom name="1-Screen Programs (13 Mukudori) {m1p1}.p6" size="393" crc="14f3050d" sha1="9448e1dc7ec9230c5b67f296c3bb1a0870ac8c34"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60698800c7e1a87">
-		<description>1-Screen Programs (14 Zendori) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="399">
-				<rom name="1-Screen Programs (14 Zendori) {m1p1}.p6" size="399" crc="9038d123" sha1="698800c7e1a87937338f974c9e2839c8c01e238d"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60bd3d607b869dd">
-		<description>1-Screen Programs (15 Bunbetsu) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="441">
-				<rom name="1-Screen Programs (15 Bunbetsu) {m1p1}.p6" size="441" crc="67a0e7a0" sha1="bd3d607b869dd59e78a1bec440015109f5de52c4"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60c3ce74ba8d508">
-		<description>1-Screen Programs (16 Ketsuraku) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="404">
-				<rom name="1-Screen Programs (16 Ketsuraku) {m1p1}.p6" size="404" crc="839c733b" sha1="c3ce74ba8d508f38793a8d7ec0ca7a6e9634194a"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60502ddcb6bf43b">
-		<description>1-Screen Programs (17 Tentori) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="423">
-				<rom name="1-Screen Programs (17 Tentori) {m1p1}.p6" size="423" crc="6c0a3e36" sha1="502ddcb6bf43b03f9c6f016ab73cbb2ad1e13913"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p6022c612051ec75">
 		<description>1000en</description>
 		<year>????</year>
@@ -232,46 +102,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p60d2af5424f477d">
-		<description>Aspic (Side A) {m5p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="47749">
-				<rom name="Aspic (Side A) {m5p2}.cas" size="47749" crc="c89af7dd" sha1="d2af5424f477d63de8d5d1027f08610de4fe6f7e"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p605ce96b9646f33">
-		<description>Aspic (Side B) {m5p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="13107">
-				<rom name="Aspic (Side B) {m5p2}.cas" size="13107" crc="b35eb02b" sha1="5ce96b9646f333e269a4378db90c9ca7ccccd5d2"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p600e535fcc35fa1">
-		<description>Asteroid</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6903">
-				<rom name="Asteroid.cas" size="6903" crc="354b9fb6" sha1="0e535fcc35fa1c6d4f1b8c2154e1bad9920807d3"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60a2f54cd9d777d">
-		<description>asteroid</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="3173">
-				<rom name="asteroid.p6" size="3173" crc="d4e4438d" sha1="a2f54cd9d777df7d3086b52287e9c6a2d0404614"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p605c77807dbb8bb">
 		<description>BA-maga Daisakusen {m5p3}</description>
 		<year>????</year>
@@ -319,16 +149,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="9664">
 				<rom name="bootskell.p6" size="9664" crc="c071251b" sha1="6010cd0769c52e598e4bcee9cf910eb89e3ac272"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60f2806d4e1e3ad">
-		<description>Bound Ball {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="2543">
-				<rom name="Bound Ball {m1p2}.cas" size="2543" crc="18385973" sha1="f2806d4e1e3adee3165d698a40d6c69e2dfe4cf1"/>
 			</dataarea>
 		</part>
 	</software>
@@ -612,16 +432,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p60df470de4f4df0">
-		<description>Holy Sword {m2p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="18167">
-				<rom name="Holy Sword {m2p2}.cas" size="18167" crc="6a84aa38" sha1="df470de4f4df0f5b935877500f7b8d72c359a4c8"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p605b82acb2d80b8">
 		<description>Idea File - Beep 1985.01 (Enpitsu Otoshi) {m1p1}</description>
 		<year>????</year>
@@ -902,16 +712,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p6093d75f164b4b5">
-		<description>Led Zone (6001)[del 1]</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="9727">
-				<rom name="Led Zone (6001)[del 1].cas" size="9727" crc="450a4b45" sha1="93d75f164b4b5a0f93d491ac00ea7fa2893a431e"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p60f42f2de67bd24">
 		<description>Lights Out (BASIC prototype) {m1p1}</description>
 		<year>????</year>
@@ -929,16 +729,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="4504">
 				<rom name="Lights Out {m1p1}.cas" size="4504" crc="53319d38" sha1="1f33cdcaa640fbafb9c0e3a91b43393d53c94c20"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p600d472ca72dc7d">
-		<description>Lode Runner {m2p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="72130">
-				<rom name="Lode Runner {m2p2}.p6" size="72130" crc="454d46a2" sha1="0d472ca72dc7d2d3dfb41b8d74ff790963d4317d"/>
 			</dataarea>
 		</part>
 	</software>
@@ -989,16 +779,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="370">
 				<rom name="Musha Musha {m1p2}.cas" size="370" crc="19d86b84" sha1="d443cf9fa218fe0d23114c6666b1c9162740566f"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60152926cc1b3fe">
-		<description>Nana-chan no Kinjirareta Asobi (6001) {m2p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="8928">
-				<rom name="Nana-chan no Kinjirareta Asobi (6001) {m2p1}.cas" size="8928" crc="7a266047" sha1="152926cc1b3feac1adf8185ff908237e5cf02768"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1092,16 +872,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p6054103efa59e71">
-		<description>Ougon no Haka {m2p3}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="39810">
-				<rom name="Ougon no Haka {m2p3}.cas" size="39810" crc="ee70a0d5" sha1="54103efa59e713130072cce178edeb83a5039b61"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p60664b499acfffd">
 		<description>P6 Circuit {m1p2}</description>
 		<year>????</year>
@@ -1112,16 +882,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p60a5d4d7e855de5">
-		<description>Pack'n Boy {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6961">
-				<rom name="Pack'n Boy {m1p2}.cas" size="6961" crc="5f289e3c" sha1="a5d4d7e855de5e6402311d798ccd271d6ed10cab"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p6061cd715fa349a">
 		<description>Panzerspitze {m2p2}</description>
 		<year>????</year>
@@ -1129,56 +889,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="17475">
 				<rom name="Panzerspitze {m2p2}.p6" size="17475" crc="eabc2c6b" sha1="61cd715fa349af5be1e8eba6c8375323d696defa"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p603d4c2c7879426">
-		<description>PC-6001 Note No. 1 (Biorhythm) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="1998">
-				<rom name="PC-6001 Note No. 1 (Biorhythm) {m1p2}.p6" size="1998" crc="c4481df9" sha1="3d4c2c78794268ea15fbb829900b822b401bdd17"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60085b6b835eb14">
-		<description>PC-6001 Note No. 1 (Cassette Label Maker) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="2095">
-				<rom name="PC-6001 Note No. 1 (Cassette Label Maker) {m1p2}.p6" size="2095" crc="cc120263" sha1="085b6b835eb14adbb71c19d36bd368b8ba87c4b2"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60e77cbbb3ca15d">
-		<description>PC-6001 Note No. 1 (Eigo no Fukisoku Doushi Test) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="3577">
-				<rom name="PC-6001 Note No. 1 (Eigo no Fukisoku Doushi Test) {m1p1}.p6" size="3577" crc="94a13573" sha1="e77cbbb3ca15dbbafa79f85db078731b8587e084"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p6039fe4a7304f08">
-		<description>PC-6001 Note No. 1 (Space Satan 1) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="3735">
-				<rom name="PC-6001 Note No. 1 (Space Satan 1) {m1p1}.p6" size="3735" crc="527eb7ca" sha1="39fe4a7304f08ab8acfd4a3e3d011441ca80f291"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60c022e00e058cc">
-		<description>PC-6001 Note No. 1 (Tournament-sen Jitsuryoku Hantei) {m1p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="2131">
-				<rom name="PC-6001 Note No. 1 (Tournament-sen Jitsuryoku Hantei) {m1p1}.p6" size="2131" crc="093f4ab9" sha1="c022e00e058cc8ba5516109a5fd6c7426acea2f1"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1252,36 +962,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p60d860e9b0d6351">
-		<description>Ponyca 2 Game Series (Galac Convoy) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="5241">
-				<rom name="Ponyca 2 Game Series (Galac Convoy) {m1p2}.p6" size="5241" crc="c37e0349" sha1="d860e9b0d6351272240a009db2ef37ee5ab744b6"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p6088cdc330fb3b8">
-		<description>Ponyca 2 Game Series (Shooting Invaders) {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="4478">
-				<rom name="Ponyca 2 Game Series (Shooting Invaders) {m1p2}.p6" size="4478" crc="24ccf028" sha1="88cdc330fb3b837325b275a6979ee0ad8681904b"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p607536663a44631">
-		<description>Portopia Renzoku Satsujin Jiken {m2p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="28596">
-				<rom name="Portopia Renzoku Satsujin Jiken {m2p1}.cas" size="28596" crc="5437dcc5" sha1="7536663a4463107d0841a83f8894012c6b7e35e1"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p605218c2b520a79">
 		<description>Programming Bug Syntax Delete {m1p2}</description>
 		<year>????</year>
@@ -1292,16 +972,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p602dff557da3e48">
-		<description>Pyramid 2 {m4p3}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="18752">
-				<rom name="Pyramid 2 {m4p3}.cas" size="18752" crc="dcce31b0" sha1="2dff557da3e489e64a57d2205c5ea940e2062344"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p6059d53d84931d9">
 		<description>Qwerty {m2p2}</description>
 		<year>????</year>
@@ -1309,16 +979,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="7155">
 				<rom name="Qwerty {m2p2}.p6" size="7155" crc="00635529" sha1="59d53d84931d98972ced9529c8b26c16a436c6d1"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60731fb27e5b044">
-		<description>Raita no Growing Up {m2p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="12803">
-				<rom name="Raita no Growing Up {m2p2}.cas" size="12803" crc="2819fc55" sha1="731fb27e5b0446599360bfd046f21f7b4dab957a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1422,26 +1082,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p606d3c5d5e42df5">
-		<description>Space Inverders {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="6346">
-				<rom name="Space Inverders {m1p2}.cas" size="6346" crc="bbf51641" sha1="6d3c5d5e42df56d1d0480934eb88877f24bd6f67"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60f049c05a51f04">
-		<description>Space Mouse {m2p2 clear 10,&amp;hd5ff}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="12084">
-				<rom name="Space Mouse {m2p2 clear 10,&amp;hd5ff}.cas" size="12084" crc="43ad22db" sha1="f049c05a51f04bea67217913442ca113087e07cc"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p6015878956b14da">
 		<description>Spacy {m2p2}</description>
 		<year>????</year>
@@ -1449,16 +1089,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="11941">
 				<rom name="Spacy {m2p2}.cas" size="11941" crc="9c9b1fa0" sha1="15878956b14dad5317054d42b232d808d579924b"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60ce996a59bd6a2">
-		<description>Star Destroyer {m2p3}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="10925">
-				<rom name="Star Destroyer {m2p3}.cas" size="10925" crc="5326525a" sha1="ce996a59bd6a29ff65435c38043f1ab06876b32a"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1539,16 +1169,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="15697">
 				<rom name="Threat of North {m2p3}.cas" size="15697" crc="6b4d7d64" sha1="8a7fcf66bd5726c30a02ac44eb248c5089e29d6a"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p6052090848c51c1">
-		<description>Tiny Golf {m1p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="443">
-				<rom name="Tiny Golf {m1p2}.cas" size="443" crc="4fa3c1e0" sha1="52090848c51c19fabb5f64c3d83df0319b61dcfa"/>
 			</dataarea>
 		</part>
 	</software>
@@ -1682,16 +1302,6 @@
 			</dataarea>
 		</part>
 	</software>
-	<software name="p604b4bc0efa24e7">
-		<description>Ultra Yonin Mahjong {m2p1}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="16755">
-				<rom name="Ultra Yonin Mahjong {m2p1}.cas" size="16755" crc="d2762c19" sha1="4b4bc0efa24e7ed690d4b9824a62045a0c4c1b6e"/>
-			</dataarea>
-		</part>
-	</software>
 	<software name="p60da9ec94dfdb60">
 		<description>Ute-! {m1p2}</description>
 		<year>????</year>
@@ -1759,16 +1369,6 @@
 		<part name="snap" interface="pc6001_snap">
 			<dataarea name="snap" size="33206">
 				<rom name="Zukkokebashi {m2p2 clear 0,&amp;hdb5f}.cas" size="33206" crc="95fbae88" sha1="007888262eca3a3bd608f4c8754e09cc47aea0fa"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="p60e1d0e146322c1">
-		<description>Zunou 4989 (6001) {m2p2}</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="snap" interface="pc6001_snap">
-			<dataarea name="snap" size="11296">
-				<rom name="Zunou 4989 (6001) {m2p2}.cas" size="11296" crc="879ba9b4" sha1="e1d0e146322c1f0d10617c0929b8981a6c8f4e67"/>
 			</dataarea>
 		</part>
 	</software>

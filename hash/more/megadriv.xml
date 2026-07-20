@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE softwarelist SYSTEM "softwarelist.dtd">
-<!-- Number of items in this list = 2102 -->
+<!-- Number of items in this list = 2100 -->
 <softwarelist name="megadriv" description="megadriv loose roms">
 	<software name="gena3084262f5af4">
 		<description>(demo) Sonic no way</description>
@@ -5239,16 +5239,6 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="1310720">
 				<rom name="chipschallenge_v13.bin" size="1310720" crc="a7783390" sha1="6073cffdc711fd0876a7cf50110278f5ee37914f"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="gen4bee752cd2205">
-		<description>Chou Touryuu Retsuden Dino Land (Japan)(1991)(Wolf Team)</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="cart" interface="megadriv_cart">
-			<dataarea name="rom" size="524288">
-				<rom name="Chou Touryuu Retsuden Dino Land (Japan)(1991)(Wolf Team).bin" size="524288" crc="81f939de" sha1="4bee752cd2205d60b9d3c7a58e0e90a4837522de"/>
 			</dataarea>
 		</part>
 	</software>
@@ -12539,16 +12529,6 @@
 		<part name="cart" interface="megadriv_cart">
 			<dataarea name="rom" size="523942">
 				<rom name="NHL Hockey (1991-09-18)(Electronic Arts)(US)[unreleased Rev 1].bin" size="523942" crc="010d8735" sha1="cfaf9e405ff76727358a34e8e524d644f1b7d1d7"/>
-			</dataarea>
-		</part>
-	</software>
-	<software name="gend29f7e70feae3">
-		<description>Nikkan Sports Pro Yakyuu VAN (Japan)(1991)(Sega)</description>
-		<year>????</year>
-		<publisher>unknown</publisher>
-		<part name="cart" interface="megadriv_cart">
-			<dataarea name="rom" size="524288">
-				<rom name="Nikkan Sports Pro Yakyuu VAN (Japan)(1991)(Sega).bin" size="524288" crc="c3655a59" sha1="d29f7e70feae3b4f1b423026b7a124514ee48dcf"/>
 			</dataarea>
 		</part>
 	</software>
